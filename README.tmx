@@ -26,4 +26,5 @@ Execute the script using Node.js and provide the path to your XML file with the 
 node script.js -f batch.tmx
 ```
 
-This will update all changedate attributes in the <tuv> tags of file.tmx to "baz".
+This will update all `changedate` attributes in the <tuv> tags of batch.tmx to the current timestamp.
+
