@@ -8,9 +8,11 @@ Assumed Node.js v20.16.0.
 
 1. Install Dependencies:
 
-First, install `xml2js` by running:
+Clone this repo, change directory to it and install dependencies:
 ```bash
-npm install xml2js
+gh clone repo capstanlqc/update-tmx-changedate
+cd /path/to/update-tmx-changedate
+npm install
 ```
 
 2. Run the Script:
