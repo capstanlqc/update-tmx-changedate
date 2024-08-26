@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.3_0_8bbfa31ca" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>foo</seg>
+      </tuv>
+      <tuv lang="be" changeid="souto" changedate="20240826T110032Z" creationid="fulano" creationdate="20230508T135851Z">
+        <seg>bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>baz</seg>
+      </tuv>
+      <tuv lang="be" changeid="souto" changedate="20240826T110032Z" creationid="souto" creationdate="20230508T143241Z">
+        <seg>qux</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
