@@ -17,11 +17,6 @@ npm install
 
 ## 2. Run the script:
 
-Make a copy of the original to use it:
-```bash
-cp batch.orig.tmx batch.tmx
-```
-
 Execute the script using Node.js and provide the path to the TMX file with the -f flag:
 
 ```bash
