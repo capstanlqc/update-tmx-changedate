@@ -2,11 +2,11 @@
 
 This script updates the value of all instances of the `changedate` attribute in a TMX file with the current timestamp. 
 
-## Instructions to Run the Script
+## Instructions to run the script
 
 Assumed Node.js v20.16.0.
 
-1. Install Dependencies:
+1. Install dependencies:
 
 Clone this repo, change directory to it and install dependencies:
 ```bash
